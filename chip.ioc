@@ -1,0 +1,226 @@
+Version: 1
+Pad: CORNER0	           NW PCORNER
+Pad: PAD_IOVDD1            N  PVDD2DGZ
+Pad: PAD_COREVDD1          N  PVDD1DGZ
+Pad: PAD_clk               N
+Pad: PAD_reset             N
+Pad: PAD_Finst0            N
+Pad: PAD_Finst1            N
+Pad: PAD_Finst2            N
+Pad: PAD_Finst3            N
+Pad: PAD_Finst4            N
+Pad: PAD_Finst5            N
+Pad: PAD_Finst6            N
+Pad: PAD_Finst7            N
+Pad: PAD_Finst8            N
+Pad: PAD_Finst9            N
+Pad: PAD_Finst10           N
+Pad: PAD_Finst11           N
+Pad: PAD_Finst12           N
+Pad: PAD_Finst13           N
+Pad: PAD_Finst14           N
+Pad: PAD_Finst15           N
+Pad: PAD_Finst16           N
+Pad: PAD_Finst17           N
+Pad: PAD_Finst18           N
+Pad: PAD_Finst19           N
+Pad: PAD_Finst20           N
+Pad: PAD_Finst21           N
+Pad: PAD_Finst22           N
+Pad: PAD_Finst23           N
+Pad: PAD_Finst24           N
+Pad: PAD_Finst25           N
+Pad: PAD_Finst26           N
+Pad: PAD_Finst27           N
+Pad: PAD_Finst28           N
+Pad: PAD_Finst29           N
+Pad: PAD_Finst30           N
+Pad: PAD_Finst31           N
+Pad: PAD_Mlddata0          N
+Pad: PAD_Mlddata1          N
+Pad: PAD_Mlddata2          N
+Pad: PAD_Mlddata3          N
+Pad: PAD_Mlddata4          N
+Pad: PAD_Mlddata5          N
+Pad: PAD_Mlddata6          N
+Pad: PAD_Mlddata7          N
+Pad: PAD_Mlddata8          N
+Pad: PAD_Mlddata9          N
+Pad: PAD_Mlddata10         N
+Pad: PAD_Mlddata11         N
+Pad: PAD_Mlddata12         N
+Pad: PAD_Mlddata13         N
+Pad: PAD_Mlddata14         N
+Pad: PAD_Mlddata15         N
+Pad: PAD_Mlddata16         N
+Pad: PAD_Mlddata17         N
+Pad: PAD_Mlddata18         N
+Pad: PAD_Mlddata19         N
+Pad: PAD_Mlddata20         N
+Pad: PAD_Mlddata21         N
+Pad: PAD_Mlddata22         N
+Pad: PAD_Mlddata23         N
+Pad: PAD_Mlddata24         N
+Pad: PAD_Mlddata25         N
+Pad: PAD_Mlddata26         N
+Pad: PAD_Mlddata27         N
+Pad: PAD_Mlddata28         N
+Pad: PAD_Mlddata29         N
+Pad: PAD_Mlddata30         N
+Pad: PAD_Mlddata31         N
+Pad: PAD_COREVSS1          N  PVSS1DGZ
+Pad: PAD_IOVSS1            N  PVSS2DGZ
+
+Pad: CORNER1	           NE PCORNER
+Pad: PAD_IOVDD2            E  PVDD2DGZ
+Pad: PAD_COREVDD2          E  PVDD1DGZ
+pad: PAD_dmwen0            E
+pad: PAD_dmwen1            E
+pad: PAD_dmwen2            E
+pad: PAD_dmwen3            E
+pad: PAD_Fpc0              E
+pad: PAD_Fpc1              E
+pad: PAD_Fpc2              E
+pad: PAD_Fpc3              E
+pad: PAD_Fpc4              E
+pad: PAD_Fpc5              E
+pad: PAD_Fpc6              E
+pad: PAD_Fpc7              E
+pad: PAD_Fpc8              E
+pad: PAD_Fpc9              E
+pad: PAD_Fpc10             E
+pad: PAD_Fpc11             E
+pad: PAD_Fpc12             E
+pad: PAD_Fpc13             E
+pad: PAD_Fpc14             E
+pad: PAD_Fpc15             E
+pad: PAD_Fpc16             E
+pad: PAD_Fpc17             E
+pad: PAD_Fpc18             E
+pad: PAD_Fpc19             E
+pad: PAD_Fpc20             E
+pad: PAD_Fpc21             E
+pad: PAD_Fpc22             E
+pad: PAD_Fpc23             E
+pad: PAD_Fpc24             E
+pad: PAD_Fpc25             E
+pad: PAD_Fpc26             E
+pad: PAD_Fpc27             E
+pad: PAD_Fpc28             E
+pad: PAD_Fpc29             E
+pad: PAD_Fpc30             E
+pad: PAD_Fpc31             E
+Pad: PAD_COREVSS2          E  PVSS1DGZ
+Pad: PAD_IOVSS2            E  PVSS2DGZ
+
+Pad: CORNER2	           SE PCORNER
+Pad: PAD_IOVDD3            S  PVDD2DGZ
+Pad: PAD_COREVDD3          S  PVDD1DGZ
+Pad: PAD_imwen0            S
+Pad: PAD_imwen1            S
+Pad: PAD_imwen2            S
+Pad: PAD_imwen3            S
+Pad: PAD_maluout0          S
+Pad: PAD_maluout1          S
+Pad: PAD_maluout2          S
+Pad: PAD_maluout3          S
+Pad: PAD_maluout4          S
+Pad: PAD_maluout5          S
+Pad: PAD_maluout6          S
+Pad: PAD_maluout7          S
+Pad: PAD_maluout8          S
+Pad: PAD_maluout9          S
+Pad: PAD_maluout10         S
+Pad: PAD_maluout11         S
+Pad: PAD_maluout12         S
+Pad: PAD_maluout13         S
+Pad: PAD_maluout14         S
+Pad: PAD_maluout15         S
+Pad: PAD_maluout16         S
+Pad: PAD_maluout17         S
+Pad: PAD_maluout18         S
+Pad: PAD_maluout19         S
+Pad: PAD_maluout20         S
+Pad: PAD_maluout21         S
+Pad: PAD_maluout22         S
+Pad: PAD_maluout23         S
+Pad: PAD_maluout24         S
+Pad: PAD_maluout25         S
+Pad: PAD_maluout26         S
+Pad: PAD_maluout27         S
+Pad: PAD_maluout28         S
+Pad: PAD_maluout29         S
+Pad: PAD_maluout30         S
+Pad: PAD_maluout31         S
+Pad: PAD_COREVSS3          S  PVSS1DGZ
+Pad: PAD_IOVSS3            S  PVSS2DGZ
+
+Pad: CORNER3	           SW PCORNER
+Pad: PAD_IOVDD4            W  PVDD2DGZ
+Pad: PAD_COREVDD4          W  PVDD1DGZ
+Pad: PAD_mrs2data0         W
+Pad: PAD_mrs2data1         W
+Pad: PAD_mrs2data2         W
+Pad: PAD_mrs2data3         W
+Pad: PAD_mrs2data4         W
+Pad: PAD_mrs2data5         W
+Pad: PAD_mrs2data6         W
+Pad: PAD_mrs2data7         W
+Pad: PAD_mrs2data8         W
+Pad: PAD_mrs2data9         W
+Pad: PAD_mrs2data10        W
+Pad: PAD_mrs2data11        W
+Pad: PAD_mrs2data12        W
+Pad: PAD_mrs2data13        W
+Pad: PAD_mrs2data14        W
+Pad: PAD_mrs2data15        W
+Pad: PAD_mrs2data16        W
+Pad: PAD_mrs2data17        W
+Pad: PAD_mrs2data18        W
+Pad: PAD_mrs2data19        W
+Pad: PAD_mrs2data20        W
+Pad: PAD_mrs2data21        W
+Pad: PAD_mrs2data22        W
+Pad: PAD_mrs2data23        W
+Pad: PAD_mrs2data24        W
+Pad: PAD_mrs2data25        W
+Pad: PAD_mrs2data26        W
+Pad: PAD_mrs2data27        W
+Pad: PAD_mrs2data28        W
+Pad: PAD_mrs2data29        W
+Pad: PAD_mrs2data30        W
+Pad: PAD_mrs2data31        W
+Pad: PAD_mlddata0          W
+Pad: PAD_mlddata1          W
+Pad: PAD_mlddata2          W
+Pad: PAD_mlddata3          W
+Pad: PAD_mlddata4          W
+Pad: PAD_mlddata5          W
+Pad: PAD_mlddata6          W
+Pad: PAD_mlddata7          W
+Pad: PAD_mlddata8          W
+Pad: PAD_mlddata9          W
+Pad: PAD_mlddata10         W
+Pad: PAD_mlddata11         W
+Pad: PAD_mlddata12         W
+Pad: PAD_mlddata13         W
+Pad: PAD_mlddata14         W
+Pad: PAD_mlddata15         W
+Pad: PAD_mlddata16         W
+Pad: PAD_mlddata17         W
+Pad: PAD_mlddata18         W
+Pad: PAD_mlddata19         W
+Pad: PAD_mlddata20         W
+Pad: PAD_mlddata21         W
+Pad: PAD_mlddata22         W
+Pad: PAD_mlddata23         W
+Pad: PAD_mlddata24         W
+Pad: PAD_mlddata25         W
+Pad: PAD_mlddata26         W
+Pad: PAD_mlddata27         W
+Pad: PAD_mlddata28         W
+Pad: PAD_mlddata29         W
+Pad: PAD_mlddata30         W
+Pad: PAD_mlddata31         W
+Pad: PAD_COREVSS4          W  PVSS1DGZ
+Pad: PAD_IOVSS4            W  PVSS2DGZ
