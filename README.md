@@ -73,3 +73,4 @@ The processor is designed to achieve:
 - Maintain stable and reliable operation under diverse computational scenarios, with efficient memory handling and pipeline management.
 
 ## Pipeline Architecture Diagram
+<img src="../image/CPU.png" alt="CPU" width="90%">
