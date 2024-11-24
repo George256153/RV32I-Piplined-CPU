@@ -17,7 +17,18 @@ This project focuses on the design and implementation of a custom RISC-V process
   - **Execution (EX)**: Supports integer and floating-point operations with minimal latency.
   - **Memory Access (MEM)**: Handles aligned and unaligned memory operations effectively.
   - **Write Back (WB)**: Ensures precise updates to the register file for subsequent operations.
-
+  
+- **Divisions of phases **:
+  - **IM**: The memory of the instruction is stored
+  - **Decoder**: Disassemble the instruction command into various parts for easy use at the next level
+  - **immext**: Used to extend the constant to 32bits
+  - **regfile**: 32 registers, used to store calculation results, addresses, etc
+  - **ALU**: Arithmetic unit, which calculates the results of operand1 and operand2 according to opcode
+  - **JB_unit**: Calculate the branch address
+  - **DM**: The memory that stores data
+  - **LD filter**: The load instruction is divided into word, half word, byte, and the LD filter determines the size to be loaded
+  - **Controller**: Provide a variety of SEL signals
+  
 ### 3. **Specialized Functions**
  - **Floating Point Unit (FPU)**:
    - IEEE 754 compliant for single-precision floating-point operations.
