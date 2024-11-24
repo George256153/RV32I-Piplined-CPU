@@ -55,9 +55,9 @@ This project focuses on the design and implementation of a custom RISC-V process
 
 3. **Comprehensive Simulation and Validation**:
    - Utilize sophisticated simulation frameworks and testbenches to analyze pipeline behavior across diverse computational scenarios, including integer-intensive, floating-point-heavy, and branch-dependent workloads.
-   - - Design comprehensive test cases to evaluate functionality and performance of all modules, including corner cases for arithmetic operations, branch prediction accuracy, and fast multiplier handling of edge scenarios.
+   - Design comprehensive test cases to evaluate functionality and performance of all modules, including corner cases for arithmetic operations, branch prediction accuracy, and fast multiplier handling of edge scenarios.
    - Perform synthesis, post-simulation, and physical layout design to ensure the design meets timing, area, and power constraints.
-- Verify layout correctness, including floorplanning, routing, and pin mapping, to optimize for manufacturability.
+   - Verify layout correctness, including floorplanning, routing, and pin mapping, to optimize for manufacturability.
 
 4. **Benchmarking and Performance Analysis**:
    - Benchmark simulation and synthesis results against theoretical performance models to identify and resolve bottlenecks in design.
